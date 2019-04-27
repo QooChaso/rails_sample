@@ -1,0 +1,5 @@
+current directory: /Users/Qoo/railsProjects/sample_app/vendor/bundle/gems/childprocess-1.0.1/ext
+/Users/Qoo/.rbenv/versions/2.5.1/bin/ruby mkrf_conf.rb
+
+current directory: /Users/Qoo/railsProjects/sample_app/vendor/bundle/gems/childprocess-1.0.1/ext
+/Users/Qoo/.rbenv/versions/2.5.1/bin/ruby -rrubygems /Users/Qoo/railsProjects/sample_app/vendor/bundle/gems/rake-12.3.2/exe/rake RUBYARCHDIR=/Users/Qoo/railsProjects/sample_app/vendor/bundle/extensions/x86_64-darwin-15/2.5.0-static/childprocess-1.0.1 RUBYLIBDIR=/Users/Qoo/railsProjects/sample_app/vendor/bundle/extensions/x86_64-darwin-15/2.5.0-static/childprocess-1.0.1
